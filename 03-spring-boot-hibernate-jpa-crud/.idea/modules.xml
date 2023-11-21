@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/03-spring-boot-hibernate-jpa-crud.iml" filepath="$PROJECT_DIR$/.idea/03-spring-boot-hibernate-jpa-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-cruddemo-read/cruddemo.iml" filepath="$PROJECT_DIR$/02-cruddemo-read/cruddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-cruddemo-create/cruddemo (1).iml" filepath="$PROJECT_DIR$/01-cruddemo-create/cruddemo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-cruddemo- update/cruddemo (2).iml" filepath="$PROJECT_DIR$/05-cruddemo- update/cruddemo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-cruddemo- Querying Objects with JPQL/cruddemo (3).iml" filepath="$PROJECT_DIR$/03-cruddemo- Querying Objects with JPQL/cruddemo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-cruddemo- Querying Objects with JPQL part 2/cruddemo (4).iml" filepath="$PROJECT_DIR$/04-cruddemo- Querying Objects with JPQL part 2/cruddemo (4).iml" />
+    </modules>
+  </component>
+</project>

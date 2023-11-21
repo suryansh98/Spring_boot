@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-cruddemo-create/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-cruddemo-create/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-cruddemo-read/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-cruddemo-read/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-cruddemo- Querying Objects with JPQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-cruddemo- Querying Objects with JPQL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-cruddemo- Querying Objects with JPQL part 2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-cruddemo- Querying Objects with JPQL part 2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-cruddemo- update/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-cruddemo- update/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
